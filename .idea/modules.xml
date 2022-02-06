@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/consumer/consumer.iml" filepath="$PROJECT_DIR$/consumer/consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/provider/provider.iml" filepath="$PROJECT_DIR$/provider/provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-rpc-api/springboot-rpc-api.iml" filepath="$PROJECT_DIR$/springboot-rpc-api/springboot-rpc-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-rpc-demo.iml" filepath="$PROJECT_DIR$/springboot-rpc-demo.iml" />
     </modules>
   </component>
